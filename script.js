@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    databaseURL: "https://nexxpay-ff625-default-rtdb.asia-southeast1.firebasedatabase.app"
+    databaseURL: "https://nexxpay-ff625-default-rtdb.asia-southeast1.firebasedatabase.app/"
 };
 
 firebase.initializeApp(firebaseConfig);
